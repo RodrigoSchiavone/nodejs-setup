@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-setup",
+  "version": "0.0.1",
+  "description": "projeto de estudos nodejs, Docker, MySQL e express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RodrigoSchiavone/nodejs-setup.git"
+  },
+  "keywords": [
+    "Docker",
+    "nodejs",
+    "MySQL",
+    "express"
+  ],
+  "author": "RodrigoSchiavoneRosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RodrigoSchiavone/nodejs-setup/issues"
+  },
+  "homepage": "https://github.com/RodrigoSchiavone/nodejs-setup#readme"
+}
