@@ -4,7 +4,8 @@
   "description": "projeto de estudos nodejs, Docker, MySQL e express",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest",
+    "start": "node src/index.js"
   },
   "repository": {
     "type": "git",
@@ -21,5 +22,11 @@
   "bugs": {
     "url": "https://github.com/RodrigoSchiavone/nodejs-setup/issues"
   },
-  "homepage": "https://github.com/RodrigoSchiavone/nodejs-setup#readme"
+  "homepage": "https://github.com/RodrigoSchiavone/nodejs-setup#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
